@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce979046_6c60c390",
+        "filename": "J1.L.P0018_Store_Management/nbproject/project.properties",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1038102
+      },
+      "writtenOn": "2024-06-19T03:26:54Z",
+      "side": 1,
+      "message": "Comment",
+      "range": {
+        "startLine": 51,
+        "startChar": 12,
+        "endLine": 51,
+        "endChar": 22
+      },
+      "revId": "904a795711068eb665676620132f55c95aba254f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4d409959_d83d98cf",
+        "filename": "J1.L.P0018_Store_Management/src/ui/Menu.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1038102
+      },
+      "writtenOn": "2024-06-19T03:26:54Z",
+      "side": 1,
+      "message": "Binh review",
+      "range": {
+        "startLine": 39,
+        "startChar": 47,
+        "endLine": 39,
+        "endChar": 56
+      },
+      "revId": "904a795711068eb665676620132f55c95aba254f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
