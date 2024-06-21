@@ -37,6 +37,7 @@ public class Menu {
         System.out.println("| 4. Store data to files                           |");
         System.out.println("| 5. Exit                                          |");
         System.out.println("| THERE IS NOTHING HEREEEEEE                       |");
+        System.out.println("| GERRIT DEMOOOOOOOOOOOOOOOO                       |");
         System.out.println("<-------------------------------------------------->");
     }
 
