@@ -22,6 +22,30 @@
       },
       "revId": "6904f758afc42fc281766fcab94c7e82b99566a6",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9077fae_90d6eb84",
+        "filename": "J1.L.P0018_Store_Management/src/ui/Menu.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1038123
+      },
+      "writtenOn": "2024-06-22T09:22:28Z",
+      "side": 0,
+      "message": "That was my fault. Thanks for the reminder!",
+      "parentUuid": "53bfa70c_91297012",
+      "range": {
+        "startLine": 42,
+        "startChar": 47,
+        "endLine": 42,
+        "endChar": 79
+      },
+      "revId": "6904f758afc42fc281766fcab94c7e82b99566a6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
